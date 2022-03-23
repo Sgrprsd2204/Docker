@@ -1,0 +1,13 @@
+What is Docker? 
+what is Container?
+Docker vs. Virtual Machine
+Docker INstallation
+Main Commands
+Debugging a Container
+Developing with Containers
+Docker Compose - Running multiple services
+Dockerfile - Building own Docker Image
+Private Docker Repository(AWS)
+Deploying the Containerized App
+Volumes Demo
+Volumes - Persisting Data
